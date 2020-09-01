@@ -1,4 +1,8 @@
 # Visualization_Census
-Advanced Visualization tools - with Map-graph and OnClick events
+Developing of Advanced Visualization tools: contains Map-graph and OnClick events.
 
-Read "Visualizasion_Census.pptx" - it describes all the details of the project.
+"MAIN_Visualization_Census.py" is the MAIN file of the program. Run it.
+
+Read "Visualizasion_Census.pptx" presentation which describes the main points of the project.
+
+
