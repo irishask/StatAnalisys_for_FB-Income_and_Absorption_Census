@@ -3,6 +3,6 @@ Developing of Advanced Visualization tools: contains Map-graph and OnClick event
 
 "MAIN_Visualization_Census.py" is the MAIN file of the program. Run it.
 
-Read "Visualizasion_Census.pptx" presentation which describes the main points of the project.
+Please open my short presentation "Visualizasion_Census.pptx" which describes the main points of the project.
 
 
