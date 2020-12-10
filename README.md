@@ -1,6 +1,4 @@
-# Visualization_OnClick_events
-Developing of Visualization tools: contains Map-graph and OnClick events.
-
+**Statistic analisys and developing of advanced visualization tools,including OnClick events Map-graph.**
 
 "MAIN_two_questions.py" is the MAIN file of the program. Run it.
 You can see a short presentation "Visualizasion_Census.pptx" which describes the main points this work.
